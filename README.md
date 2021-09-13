@@ -2,7 +2,7 @@
 Olympics Data Analysis using pandas, matplotlib and numpy.
 
 # I have made a Olympics data analysis methods in a very efficient way
-1. I have used pythin pandas for it
+1. I have used python pandas for it
 2. matplotlib for the graphs
 3. more efficient methods for finding particular solution
 
