@@ -6,8 +6,8 @@ Olympics Data Analysis using pandas, matplotlib and numpy.
 2. matplotlib for the graphs
 3. more efficient methods for finding particular solution
 
-# features of the folling product
-1. We can arange the data in asciending order or desending order.
+# features of the following product
+1. We can arange the data in assending order or desending order.
 2. we can find top 5 players.
 3. we can find top 5 or top 10 or anything we can find.
 4. we can find how many gold medels each country won.
